@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 // ستاسو د بوټ ټوکن
-const token = '8994970637:AAE5AbDsmtivoHuP_K6JO0BkYvj_tI91YOM';
+const token = '9076116342:AAHOMebo2fDVR5F6BS3nPUTgEjyp2Ib-Ons';
 const bot = new TelegramBot(token, { polling: true });
 
 // ستاسو لینک
